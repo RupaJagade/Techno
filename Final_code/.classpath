@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/selenium-server-standalone-3.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/CucumberJarFiles/cucumber-core-1.2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/poi-3.10-FINAL/poi-3.10-FINAL-20140208.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/poi-3.10-FINAL/poi-examples-3.10-FINAL-20140208.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/poi-3.10-FINAL/poi-excelant-3.10-FINAL-20140208.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/poi-3.10-FINAL/poi-ooxml-3.10-FINAL-20140208.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/poi-3.10-FINAL/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/poi-3.10-FINAL/poi-scratchpad-3.10-FINAL-20140208.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/poi-3.10-FINAL/ooxml-lib/dom4j-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/poi-3.10-FINAL/ooxml-lib/stax-api-1.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/poi-3.10-FINAL/ooxml-lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/ExtendReport/bson-3.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/ExtendReport/commons-codec-1.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/ExtendReport/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/ExtendReport/extentreports-2.40.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/ExtendReport/extentreports-3.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/ExtendReport/freemarker-2.3.23.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/ExtendReport/gson-2.8.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/ExtendReport/httpclient-4.5.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/ExtendReport/httpcore-4.4.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/ExtendReport/httpmime-4.5.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/ExtendReport/jsoup-1.9.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/ExtendReport/mongodb-driver-3.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/ExtendReport/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/commons-lang3-3.9-bin/commons-lang3-3.9/commons-lang3-3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/commons-lang3-3.9-bin/commons-lang3-3.9/commons-lang3-3.9-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/commons-lang3-3.9-bin/commons-lang3-3.9/commons-lang3-3.9-tests.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/commons-lang3-3.9-bin/commons-lang3-3.9/commons-lang3-3.9-test-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/selenium-java 3.8.1/client-combined-3.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium 64 bit/selenium-java 3.8.1/client-combined-3.8.1-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
